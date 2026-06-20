@@ -1,5 +1,12 @@
 # Sx9Net-Info
 
+![Linux](https://img.shields.io/badge/Platform-Linux-blue)
+![Bash](https://img.shields.io/badge/Language-Bash-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Version](https://img.shields.io/badge/Version-v1.0-orange)
+
+# Sx9Net-Info
+
 A simple Linux network information tool.
 
 ## Features
